@@ -17,7 +17,7 @@ my $use_clipboard = 0;
 my $string = 'none';
 
 #引数を変数にいれる
-GetOptions('filename=s' => \$file_name, 'clipboard' => \$use_clipboard, 'string=s' => \$string);
+GetOptions('filename=s' => \$file_name, 'string=s' => \$string);
 
 #メモ帳を起動
 system('start notepad');
