@@ -14,8 +14,8 @@ Strawberry PerlやActivePerlを使いインストールする。
 
 `-f <"文字列">  保存するファイル名を指定します。`
   
+***
 
-  
 # AutoGuiNotepad
 This code automatically operated notepad to saving strings.
 
