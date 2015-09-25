@@ -27,7 +27,7 @@ Install Win32::GuiTest useing Strawberry Perl  or  ActivePerl
 ##How to use
 `perl AutoGuiNotepad.pl`
 
-##オプション
+##Options
 `-s <"strings">  Specify the text. If it has'nt this , paste the clipboard `
 
 `-f <"strings">  Specify the file name`
